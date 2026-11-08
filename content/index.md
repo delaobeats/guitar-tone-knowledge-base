@@ -20,4 +20,11 @@ My goal is to organize what I've learned, share useful information, and continue
 
 **Don't imitate a sound. Create an identity.**
 
-Learn more about me on my [[about]] page.
+## Main Categories
+
+- [[pedal-types/index|Types of Guitar Pedals]]
+- [[signal-chain/index|Signal Chain and Pedal Order]]
+- [[pedalboard-setup/index|Pedalboard Setup]]
+- [[power-and-cables/index|Power Supplies and Cables]]
+- [[tone-and-settings/index|Tone and Pedal Settings]]
+- [[maintenance/index|Maintenance and Troubleshooting]]
