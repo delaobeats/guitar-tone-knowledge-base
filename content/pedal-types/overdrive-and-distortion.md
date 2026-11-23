@@ -27,6 +27,12 @@ For melodic metalcore, it is useful to compare tight rhythm guitar with a more s
 
 > Good heavy tone is not just about maximum distortion; it is about keeping the notes understandable.
 
+## Effects at a Glance
+
+![Diagram of five guitar effects families: overdrive and distortion, fuzz and boost, modulation, delay and reverb, and compression and EQ.](effects-overview.svg)
+
+*Figure 1. An overview of common guitar-effect families. The diagram compares their roles, not their required order in a pedalboard.*
+
 ## Explore Related Effects
 
 Compare saturated gain with [[pedal-types/fuzz-and-boost|fuzz and boost]], or learn how [[pedal-types/delay-and-reverb|delay and reverb]] can give driven leads more space. The location of these pedals in the rig also matters, as explained in [[signal-chain/index|signal chain and pedal order]].
