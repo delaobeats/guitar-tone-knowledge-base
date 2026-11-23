@@ -8,12 +8,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "📖 Knowledge Base Docs",
+    pageTitle: "🎸 Guitar Tone Knowledge Base",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "ggamel.github.io/template-knowledge-base-docs/",
+    baseUrl: "delaobeats.github.io/guitar-tone-knowledge-base",
     ignorePatterns: ["private", "_templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
