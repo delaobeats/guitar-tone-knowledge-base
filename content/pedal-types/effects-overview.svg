@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="330" viewBox="0 0 1120 330" role="img" aria-labelledby="title desc">
+<title id="title">Five families of guitar effects pedals</title>
+<desc id="desc">A horizontal flow of five labeled pedal illustrations: Overdrive and Distortion, Fuzz and Boost, Modulation, Delay and Reverb, and Compression and EQ.</desc>
+<rect width="1120" height="330" rx="20" fill="#141822"/>
+<text x="560" y="44" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#ffffff">Five Ways to Shape Guitar Tone</text>
+<text x="560" y="72" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#b6c2d4">Effect families, not a required signal-chain order</text>
+<g transform="translate(33,98)">
+<rect width="165" height="178" rx="13" fill="#e58246"/>
+<rect x="9" y="9" width="147" height="160" rx="9" fill="none" stroke="#ffffff" stroke-opacity=".38"/>
+<text x="82.5" y="32" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#10202c">DRIVE</text>
+<circle cx="43" cy="58" r="10" fill="#213040"/><circle cx="82" cy="58" r="10" fill="#213040"/><circle cx="121" cy="58" r="10" fill="#213040"/>
+<text x="82.5" y="103" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#101a29">Overdrive /</text>
+<text x="82.5" y="124" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#101a29">Distortion</text>
+<rect x="62" y="139" width="41" height="19" rx="8" fill="#233040"/><circle cx="82" cy="148" r="5" fill="#f8f8f5"/>
+</g><g transform="translate(256,98)">
+<rect width="165" height="178" rx="13" fill="#b46bd3"/>
+<rect x="9" y="9" width="147" height="160" rx="9" fill="none" stroke="#ffffff" stroke-opacity=".38"/>
+<text x="82.5" y="32" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#10202c">TEXTURE</text>
+<circle cx="43" cy="58" r="10" fill="#213040"/><circle cx="82" cy="58" r="10" fill="#213040"/><circle cx="121" cy="58" r="10" fill="#213040"/>
+<text x="82.5" y="103" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#101a29">Fuzz /</text>
+<text x="82.5" y="124" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#101a29">Boost</text>
+<rect x="62" y="139" width="41" height="19" rx="8" fill="#233040"/><circle cx="82" cy="148" r="5" fill="#f8f8f5"/>
+</g><g transform="translate(479,98)">
+<rect width="165" height="178" rx="13" fill="#3aacc4"/>
+<rect x="9" y="9" width="147" height="160" rx="9" fill="none" stroke="#ffffff" stroke-opacity=".38"/>
+<text x="82.5" y="32" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#10202c">MOTION</text>
+<circle cx="43" cy="58" r="10" fill="#213040"/><circle cx="82" cy="58" r="10" fill="#213040"/><circle cx="121" cy="58" r="10" fill="#213040"/>
+<text x="82.5" y="103" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#101a29">Modulation</text>
+<text x="82.5" y="124" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#101a29"></text>
+<rect x="62" y="139" width="41" height="19" rx="8" fill="#233040"/><circle cx="82" cy="148" r="5" fill="#f8f8f5"/>
+</g><g transform="translate(702,98)">
+<rect width="165" height="178" rx="13" fill="#5b8ee5"/>
+<rect x="9" y="9" width="147" height="160" rx="9" fill="none" stroke="#ffffff" stroke-opacity=".38"/>
+<text x="82.5" y="32" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#10202c">SPACE</text>
+<circle cx="43" cy="58" r="10" fill="#213040"/><circle cx="82" cy="58" r="10" fill="#213040"/><circle cx="121" cy="58" r="10" fill="#213040"/>
+<text x="82.5" y="103" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#101a29">Delay /</text>
+<text x="82.5" y="124" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#101a29">Reverb</text>
+<rect x="62" y="139" width="41" height="19" rx="8" fill="#233040"/><circle cx="82" cy="148" r="5" fill="#f8f8f5"/>
+</g><g transform="translate(925,98)">
+<rect width="165" height="178" rx="13" fill="#72ab79"/>
+<rect x="9" y="9" width="147" height="160" rx="9" fill="none" stroke="#ffffff" stroke-opacity=".38"/>
+<text x="82.5" y="32" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#10202c">CONTROL</text>
+<circle cx="43" cy="58" r="10" fill="#213040"/><circle cx="82" cy="58" r="10" fill="#213040"/><circle cx="121" cy="58" r="10" fill="#213040"/>
+<text x="82.5" y="103" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#101a29">Compression /</text>
+<text x="82.5" y="124" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#101a29">EQ</text>
+<rect x="62" y="139" width="41" height="19" rx="8" fill="#233040"/><circle cx="82" cy="148" r="5" fill="#f8f8f5"/>
+</g>
+</svg>
